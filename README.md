@@ -29,7 +29,7 @@ Este projeto é capaz de fazer scraping de dados usando o Selenium.
 4. **Rodando o projeto**
    - Certifique-se que o .env está com as credencias certas para o seu banco.
    - Uma vez no diretório raiz do projeto, execute o seguinte comando:
-       - pyhton3 main.py
+       - `pyhton3 main.py`
 
 ---
 
