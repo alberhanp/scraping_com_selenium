@@ -1,4 +1,4 @@
-# Scraping sem Selenium
+# Scraping com Selenium
 
 ## Propósito
 
